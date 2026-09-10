@@ -1,6 +1,6 @@
 # Repositório das aulas do curso Algoritmos e Programação - Facamp
 
-Curso ofereido para o 1º ano de Engenharia - FACAMP
+Curso oferecido para o 1º ano de Engenharia - FACAMP
 4 créditos - 72 horas - Disciplina de 36 encontros
 2º Semestre de 2026
 
