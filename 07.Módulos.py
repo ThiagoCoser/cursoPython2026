@@ -46,21 +46,21 @@ print ("Terminou")
 def somaNumeros(num1, num2):
   return num1+ num2
 
-a = 5
-b = 3
+# a = 5
+#b = 3
 
-c= somaNumeros(a,b)
+#c= somaNumeros(a,b)
 
-print(c)
+#print(c)
 
 #ScriptB
-#import ScriptA
+import ScriptA
 
 a = 10
 b = 12
 
 # Importa a função modular da biblioteca do ScriptA
-# c = ScriptA.somaNumeros(a,b)
+c = ScriptA.somaNumeros(a,b)
 print(c)
 
 # %%
