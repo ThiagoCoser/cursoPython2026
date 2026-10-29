@@ -18,6 +18,8 @@ Curso oferecido para o 1º ano de Engenharia - FACAMP
 
 - [Aula](https://docs.google.com/presentation/d/1ySCjotaHZXyPQKrRYBX1Bv7w4LUdESbf/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
-# Entrega da Lista 2
-- Compacte os arquivos em um único arquivo .ZIP ou .RAR ou . 7zip no formato seuNome_RA
-- [Drive](https://drive.google.com/drive/folders/1-6vQvPJrE5KE5vr9V2qg_ZirRlc44m73?usp=sharing)
+# Entregas
+## Compacte os arquivos em um único arquivo .ZIP ou .RAR ou . 7zip no formato seuNome_RA
+- [Lista 2](https://drive.google.com/drive/folders/1-6vQvPJrE5KE5vr9V2qg_ZirRlc44m73?usp=sharing)
+
+- [Bilhete de ouro](https://drive.google.com/drive/folders/1f0he0WkDilKuAzD4RjRkww3duxR7-2dk?usp=sharing)
